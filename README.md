@@ -39,3 +39,19 @@ It uses **Machine Learning algorithms** to predict suitable career options and p
 ## 🧱 Repository Structure
 Data - <a href = https://github.com/jayshri0827/career_Recommendation_System/tree/master </a>
 
+---
+🧩 Explanation of Each Folder
+Folder	Purpose
+dataset/	Stores raw and cleaned datasets used for training and evaluation.
+model/	Contains all ML training, saved models, and preprocessing scripts.
+backend/	Flask backend handling API requests and database connectivity.
+frontend/	Streamlit-based UI for user interaction and visualization.
+Documentation/	Includes reports, presentations, and architecture diagrams.
+Images/	Screenshots and visual outputs for README and presentation.
+requirements.txt	Lists all Python libraries needed to run the project.
+README.md	Provides an overview of your project for GitHub visitors.
+
+
+---
+
+
