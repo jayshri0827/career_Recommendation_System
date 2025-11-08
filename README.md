@@ -53,9 +53,10 @@ README.md	Provides an overview of your project for GitHub visitors.
 
 
 ---
-Jayashri Santosh Jadhav
-📧 jadhavjayshri030@gmail.com
-🔗 LinkedIn Profile
+## 👩‍💻 Author
+**Jayashri Santosh Jadhav**  
+📧 [jadhavjayshri030@gmail.com](mailto:jadhavjayshri030@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/jayashri-jadhav-537b712b8)
 
 
 
